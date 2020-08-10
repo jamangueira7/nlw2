@@ -28,6 +28,7 @@ interface TeacherItemProps {
 const TeacherItem: React.FC <TeacherItemProps> = ({ teacher, favorited }) => {
 
     const [isFavorited, setIsfavorited] = useState(favorited);
+
     function handelLinkToWhatsapp() {
         api.post('connections', {
             user_id: teacher.id,

@@ -1,4 +1,4 @@
-import React, {useState, useEffect } from "react";
+import React, {useState } from "react";
 import {ScrollView, View} from "react-native";
 
 import PageHeader from "../../components/PageHeader";

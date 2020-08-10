@@ -40,7 +40,6 @@ O Proffy é uma plataforma de estudos online, aonde professores podem oferecer o
 
 - Clone o projeto.
 - Entre na pasta "server" e rode yarn install (pode usar npm install de acordo com a sua configuração).
-- Na pasta src/services aquivo api.ts colocar seu IP em baseURL para funcionar.
 - yarn start (npm tbm funciona).
 
 ##### WEB
@@ -50,6 +49,7 @@ O Proffy é uma plataforma de estudos online, aonde professores podem oferecer o
 
 ##### Mobile
 - Entre na pasta "mobile" e rode yarn install (pode usar npm install de acordo com a sua configuração).
+- Na pasta src/services aquivo api.ts colocar seu IP em baseURL para funcionar.
 - Rode seu ambiente (eu usei o expo).
 
 ###### Usar o expo: Baixe no seu celular o app "expo", depois rode o comando "expo start". Coloque sua camera para ler o QRCode gerado e pronto.

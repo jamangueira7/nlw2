@@ -26,6 +26,7 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
+- [React](https://pt-br.reactjs.org/) - v16.13.1
 - [Node.js](https://nodejs.org/en/) - v14.4.0
 - [Yarn](https://yarnpkg.com/) - 1.22.4
 - [Npm](https://www.npmjs.com/) - 6.14.5
